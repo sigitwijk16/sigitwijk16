@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sigitwijk16
-- 👀 I’m interested in Frontend Webdev, Flutter, and API
-- 🌱 I’m currently learning HTML, CSS Framework, and Flutter
-- 💞️ I’m looking to collaborate on Mobile Apps
+- 👀 I’m interested in Web, Mobile, and Machine Learning Development
+- 🌱 I’m currently learning Node JS API and Kotlin Android
 - 📫 Reach me from github
 
 <!---
